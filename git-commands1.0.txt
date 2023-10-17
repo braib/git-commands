@@ -1,0 +1,115 @@
+//go to github
+//create a new repository
+
+//give a name to repository
+//if you want to give description it's fine
+
+//choose public or private
+
+//tap on create repository
+
+//copy the url
+
+//open cmd
+
+
+//goto your working repository
+
+git clone <url>  
+
+
+cd <filename>
+
+
+touch <file>
+
+code ..
+
+
+//write code
+
+git add <file>
+
+
+git commit -m "first commit message"
+    
+
+git status
+
+
+git push 
+
+
+git commit -am "edited commit message"  //this command does both work git add <file> and git gommit -m "commit message"
+
+
+
+
+//git status
+//git push
+
+
+//whenever you are ready to to push 
+
+git commit -am "edited commit message"
+git pull //to check whether any other people have updated your code
+//goto your code
+//edit it
+
+git commit -am "fix merge conflict"  //to merge 
+
+git push
+
+
+
+git barnch //to check which branch
+
+git checkout -b <name>  //to create new branch
+
+git checkout <name>  //to change branch
+
+git merge style   //after changing in your main branch you have to merge so that you can easily edit that as sub branch
+
+
+
+
+
+
+
+<!-- WEBSITE LAUNCH  --!>
+
+//goto github
+
+//create new reository
+<username_github>.github.io
+
+create
+
+
+//copy the link
+
+//goto cmd
+
+//goto working repository
+
+git clone <paste the url>
+
+cd <username_github>.github.io
+
+code ..
+
+//name the file
+
+//write the code
+
+//go to terminl
+
+git add <name>
+
+git commit -m "launch"
+
+//goto github
+
+//in setting check for link and search it in chrome
+
+//congratulations
