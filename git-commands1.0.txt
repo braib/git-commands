@@ -37,7 +37,7 @@ git commit -m "first commit message"
 git status
 
 
-git push 
+git push origin main
 
 
 git commit -am "edited commit message"  //this command does both work git add <file> and git gommit -m "commit message"
