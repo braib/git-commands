@@ -113,3 +113,8 @@ git commit -m "launch"
 //in setting check for link and search it in chrome
 
 //congratulations
+
+
+git checkout master    /// it is to select branch
+
+git branch master    /// to create branch called master
