@@ -64,6 +64,7 @@ git push
 
 git barnch //to check which branch
 
+git branch <name>
 git checkout -b <name>  //to create new branch
 
 git checkout <name>  //to change branch
