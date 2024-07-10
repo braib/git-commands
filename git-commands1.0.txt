@@ -37,7 +37,7 @@ git commit -m "first commit message"
 git status
 
 
-git push 
+git push origin main
 
 
 git commit -am "edited commit message"  //this command does both work git add <file> and git gommit -m "commit message"
@@ -113,6 +113,12 @@ git commit -m "launch"
 //in setting check for link and search it in chrome
 
 //congratulations
+
+
+
+
+
+
 
 
 git checkout master    /// it is to select branch
